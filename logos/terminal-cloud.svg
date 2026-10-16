@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Terminal cloud</title>
+  <desc id="desc">A pixel-art blue cloud above a cream command prompt inside a charcoal terminal.</desc>
+  <rect width="256" height="256" rx="32" fill="#f6f3eb"/>
+  <rect x="28" y="44" width="200" height="172" rx="12" fill="#ccc7b9"/>
+  <rect x="28" y="36" width="200" height="172" rx="12" fill="#292923"/>
+  <path d="M28 72h200" stroke="#636359" stroke-width="4"/>
+  <g fill="#f6f3eb">
+    <rect x="44" y="50" width="8" height="8"/>
+    <rect x="60" y="50" width="8" height="8"/>
+    <rect x="76" y="50" width="8" height="8"/>
+  </g>
+  <path d="M72 144v-24h16v-16h24V88h32v16h24v16h16v24Z" fill="#94c1ce"/>
+  <path d="m76 164 12 12-12 12m28 0h24" fill="none" stroke="#f6f3eb" stroke-width="8" stroke-linecap="square" stroke-linejoin="miter"/>
+</svg>

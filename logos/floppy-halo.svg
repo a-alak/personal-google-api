@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Blessed backup</title>
+  <desc id="desc">A blue floppy disk beneath a floating golden halo.</desc>
+  <rect width="256" height="256" rx="32" fill="#f6f3eb"/>
+  <ellipse cx="128" cy="46" rx="48" ry="14" fill="none" stroke="#a77a2c" stroke-width="8"/>
+  <path d="M58 82h124l20 20v112H54V86Z" fill="#ccc7b9"/>
+  <path d="M54 76h128l20 20v112H54Z" fill="#285d79" stroke="#292923" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M86 80h80v52H86Z" fill="#ccc7b9"/>
+  <path d="M140 86h16v36h-16Z" fill="#292923"/>
+  <rect x="80" y="150" width="96" height="54" rx="4" fill="#f6f3eb"/>
+  <path d="M96 168h64m-64 16h40" stroke="#636359" stroke-width="6"/>
+  <path d="M34 50v16m-8-8h16m180 6v16m-8-8h16" stroke="#a77a2c" stroke-width="4" stroke-linecap="square"/>
+</svg>

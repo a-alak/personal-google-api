@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Cloud filing cabinet</title>
+  <desc id="desc">A two-drawer charcoal filing cabinet with a blue cloud filed in its open top drawer.</desc>
+  <rect width="256" height="256" rx="32" fill="#f6f3eb"/>
+  <rect x="64" y="214" width="20" height="12" fill="#292923"/>
+  <rect x="172" y="214" width="20" height="12" fill="#292923"/>
+  <rect x="52" y="76" width="152" height="144" rx="8" fill="#292923"/>
+  <path d="M64 88h128v54H64Z" fill="#636359"/>
+  <path d="M76 119V95h16V79h20V59h32v20h20v16h16v24Z" fill="#94c1ce" stroke="#292923" stroke-width="6" stroke-linejoin="round"/>
+  <path d="M52 122h152l12 34H40Z" fill="#ccc7b9" stroke="#292923" stroke-width="6" stroke-linejoin="round"/>
+  <rect x="40" y="150" width="176" height="28" rx="4" fill="#285d79" stroke="#292923" stroke-width="6"/>
+  <path d="M112 162h32" stroke="#f6f3eb" stroke-width="7"/>
+  <rect x="64" y="184" width="128" height="24" rx="3" fill="#f6f3eb"/>
+  <path d="M112 196h32" stroke="#292923" stroke-width="6"/>
+</svg>

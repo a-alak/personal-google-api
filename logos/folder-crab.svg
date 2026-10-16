@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">The file porter</title>
+  <desc id="desc">A cheerful blue crab carrying a cream file folder above its head.</desc>
+  <rect width="256" height="256" rx="32" fill="#f6f3eb"/>
+  <g fill="none" stroke="#292923" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m90 174-30 6-14 20m48-8-22 12-6 14m100-44 30 6 14 20m-48-8 22 12 6 14"/>
+    <path d="m88 162-32-24V94m112 68 32-24V94"/>
+  </g>
+  <path d="M66 54h46l14 16h64v64H66Z" fill="#ccc7b9" stroke="#292923" stroke-width="7" stroke-linejoin="round"/>
+  <path d="M66 82h124v52H66Z" fill="#f6f3eb" stroke="#292923" stroke-width="7" stroke-linejoin="round"/>
+  <path d="M84 102h40" stroke="#285d79" stroke-width="7"/>
+  <g fill="#285d79" stroke="#292923" stroke-width="7" stroke-linejoin="round">
+    <path d="M56 114c-20 0-28-22-16-38l16 16 16-16c12 16 4 38-16 38Z"/>
+    <path d="M200 114c-20 0-28-22-16-38l16 16 16-16c12 16 4 38-16 38Z"/>
+    <ellipse cx="128" cy="180" rx="48" ry="32"/>
+  </g>
+  <path d="M110 158v-14m36 14v-14" stroke="#292923" stroke-width="8"/>
+  <g fill="#292923"><circle cx="110" cy="142" r="9"/><circle cx="146" cy="142" r="9"/></g>
+  <g fill="#f6f3eb"><circle cx="108" cy="140" r="3"/><circle cx="144" cy="140" r="3"/></g>
+  <path d="M114 182q14 16 28 0" fill="none" stroke="#f6f3eb" stroke-width="6" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Home directory in the cloud</title>
+  <desc id="desc">A minimal terminal displaying a tilde, slash, and blue cloud: home in the cloud.</desc>
+  <rect width="256" height="256" rx="32" fill="#f6f3eb"/>
+  <rect x="24" y="56" width="208" height="152" rx="10" fill="#ccc7b9"/>
+  <rect x="24" y="48" width="208" height="152" rx="10" fill="#292923"/>
+  <path d="M24 80h208" stroke="#636359" stroke-width="4"/>
+  <path d="M40 64h24m136 0h16" stroke="#f6f3eb" stroke-width="5"/>
+  <path d="M44 134c12-20 22 20 34 0m38-24-20 52" fill="none" stroke="#f6f3eb" stroke-width="8" stroke-linecap="square"/>
+  <path d="M144 156a16 16 0 0 1-2-32 22 22 0 0 1 42-6 19 19 0 0 1 12 38Z" fill="#94c1ce"/>
+</svg>
