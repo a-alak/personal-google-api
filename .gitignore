@@ -1,0 +1,9 @@
+# This repository contains public website files only.
+.env
+.env.*
+!.env.example
+*credentials*.json
+client_secret*.json
+token*.json
+rclone.conf
+.DS_Store
